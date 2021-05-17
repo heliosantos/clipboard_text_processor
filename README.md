@@ -10,3 +10,6 @@ Order headers and payload when possible (e.g. x-www-form-urlencoded).
 
 #### decode_jwt
 Decodes an encoded JSON Web Token (payload only).  
+
+## How to run    
+```python -c "import clipboard_text_processor; clipboard_text_processor.format_http_request()"```
